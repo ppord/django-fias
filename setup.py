@@ -24,7 +24,6 @@ setup(
         'rarfile',
         'six',
         'lxml',
-        'south>=0.8.4',
         'unrar',
     ],
     packages=find_packages(),
