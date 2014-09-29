@@ -23,7 +23,6 @@ setup(
         'django-extensions>=1.0.0',
         'rarfile',
         'six',
-        'lxml',
         'unrar',
     ],
     packages=find_packages(),
